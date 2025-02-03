@@ -1,6 +1,5 @@
 # distributed-microservices-spring-
-Building a **distributed, scalable microservices project** using **Java** requires careful planning, architecture design, and the right set of tools. Below is a **high-level breakdown** of how you can structure your project.
-
+Building a **distributed, scalable microservices project** using **Java** requires careful planning, architecture design, and the right set of tools.
 ---
 
 ## **1. Architecture Design**
